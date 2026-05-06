@@ -6,7 +6,7 @@
 ---
 
 ## 🎥 Video Demo
-> *(Add your Loom/Drive video link here after recording)*
+> https://github.com/user-attachments/assets/1790da69-534f-416d-a42b-6b9d79acb1eb
 
 ---
 
